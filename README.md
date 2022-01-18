@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SARITHASAKTHIVEL
 - 👀 I’m interested in web developing
 - 🌱 I’m currently learning electronic and communication engineering
-- 💞️ I’m looking to collaborate on elonmusktu
+- 💞️ I’m looking to collaborate on fintechgie
 - 📫 How to reach me @salem
 
 <!---

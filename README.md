@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SARITHASAKTHIVEL
-- 👀 I’m interested in web developing, cyber security, data analytics
+- 👀 I’m interested in web developing, cyber security.
 - 🌱 I’m currently learning electronic and communication engineering
-- 💞️ I’m looking to collaborate on SOC analyst, Network configurator, data analyzer
+- 💞️ I’m looking to collaborate on SOC analyst, Network configurator
 - 📫 How to reach me via email: sarithaasakthi@gmail.com
 
 <!---
